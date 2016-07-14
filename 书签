@@ -1,0 +1,156 @@
+---
+title: 书签
+tags: 新建,模板,小书匠
+grammar_cjkRuby: true
+---
+
+
+欢迎使用 **{小书匠}(xiaoshujiang)编辑器**，您可以通过==设置==里的修改模板来改变新建文章的内容。
+
+# 我的账号
+* [csdn](http://my.csdn.net/?ref=toolbar)
+* [博客园](http://www.cnblogs.com/)
+* [我的博客园的博客](http://www.cnblogs.com/dinglei-ml/)
+* 163邮箱
+* 126邮箱
+* [yahoo邮箱](dingjian1996@yahoo.com)
+* [Gmail](dingleiml@gmail.com)
+* [github](https://github.com/MosBest)
+# python
+* http://python.jobbole.com/84464/
+* [python教程与参考,英文官网](https://docs.python.org/2/library/email-examples.html)
+* [python教程与参考,中文官网](http://python.usyiyi.cn/)
+* [sklearnAPI](http://scikit-learn.org/stable/)
+* [numpy库](http://www.numpy.org/)
+* [matplotlib库](http://matplotlib.org/) 注意：如果你想找一个库，比如numpy的话，在goole敲numpy.org试一试，说不定就有了
+* [pandas库](http://pandas.pydata.org/pandas-docs/stable/api.html)
+* [10分钟搞定pandas](http://www.shizhuolin.com/2015/04/19/978.html)
+* [菜鸟教程（东西很全）](http://www.runoob.com/python/python-tutorial.html)
+* [python 博客](http://blog.csdn.net/julius_lee/article/category/1165061)
+* [python 资料大全](https://github.com/jobbole/awesome-python-cn)
+* [python 资料大全](https://github.com/Tim9Liu9/python)
+* [常用第三方库](https://pypi.python.org/pypi)
+* [大神资料详解python](http://www.crifan.com/crifan_released_all/books/)
+
+# 机器学习
+1. [机器学习库](http://scikit-learn.org/stable/modules/classes.html#sklearn-metrics-metrics)
+1. [伯乐在线-机器学习](http://blog.jobbole.com/88195/)
+2. [机器学习资料大全](https://github.com/jobbole/awesome-machine-learning-cn)
+* [机器学习常用算法总结](http://www.kuqin.com/shuoit/20160419/351618.html)
+3. python 机器学习库scikit-learn 
+* http://scikit-learn.org/stable/  
+* http://scikit-learn.org/stable/modules/classes.html#sklearn-metrics-metrics
+4. [优达学城机器学习项目](https://github.com/udacity/machine-learning)
+5. [数据挖掘10大算法（从各个不同的博客收集而来，每个博客对应着不同的博主](https://wizardforcel.gitbooks.io/dm-algo-top10/content/c4.5.html)
+
+* [k-means算法的可视化工具](http://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
+* [github机器学习项目 和资料](https://github.com/josephmisiti/awesome-machine-learning)
+
+
+# 基础技能
+
+1. 装双系统时easybcd使用
+
+ * http://wenku.baidu.com/link?url=FxH3xzv06tS5iIxlHUvV2g0Tf7AtMOTg5p2HCNg7Ewc-4lIJ6F9g0Pw_KXoZceE3cWXOiOgMrz9cH-oPkQD-UhaC7Fj1HIkmg0K1_t74uKO
+
+ * http://jingyan.baidu.com/article/76a7e409bea83efc3b6e1507.html
+2. [计算机书籍索引](https://github.com/hexiu/free-programming-books-zh_CN#latex)
+3. markdown语法
+
+ * [markdowm在线编辑器](https://www.zybuluo.com/mdeditor#)
+ * [markdowm离线编辑器下载](https://www.zybuluo.com/cmd/)
+ * [如何用makdown画流程图](http://www.lxway.com/818096916.htm)
+ * [Markdown 语法说明(简体中文版)](http://wowubuntu.com/markdown/index.html#html)
+  * [Markdown 语法说明(简体中文版)](http://www.appinn.com/markdown/)
+ * [案例 （每个案例的链接其实都是一个教程，不可错过）](https://www.zybuluo.com/mdeditor#)
+ * [图灵的介绍](http://www.ituring.com.cn/article/23)
+ * [怎样引导新手使用 Markdown？ - 写作 - 知乎](http://www.zhihu.com/question/20409634)
+4. [latex在线公式编辑器](http://latex.codecogs.com/eqneditor/editor.php) （直接用就可以了）
+5. 平时使用工具
+ * [逗逗阿修](http://blog.jaxiu.cn/index.php/archives/199/)
+6. 翻墙
+    * [1](https://mp.weixin.qq.com/s?__biz=MzI2ODE5ODc4OA==&mid=2651906522&idx=1&sn=b17bf0cca4793d362908bde718115f61&scene=0&key=b28b03434249256b5b4bcb2809b93c74e3857c998d32693dd324f591ab7f201403adf74b82807ee1a234b95d42302b5f&ascene=7&uin=MTE0MDU2NTAwNg%3D%3D&devicetype=android-22&version=26031031&nettype=WIFI&pass_ticket=IAOTtkv8HmB9%2BUPitLwlEePYd6eavnJnx3rpgp7OH%2FVK4CF6iYMwXzUIhAlXpnAi)
+ 
+    * [my-eclipse](http://blog.my-eclipse.cn/)
+    * [github官网](https://github.com/MofeLee/how-to-fxxk-gfw)
+    * [详解vpn](http://tieba.baidu.com/p/2320996106)
+
+7. git
+ 
+ * [git 资料](http://pan.baidu.com/s/1jGxjQL4#path=%252Fpub%252Fgit )
+ * [教                            程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001374385852170d9c7adf13c30429b9660d0eb689dd43a000)
+ * [生成公钥](https://git-scm.com/book/zh/v1/%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A%E7%9A%84-Git-%E7%94%9F%E6%88%90-SSH-%E5%85%AC%E9%92%A5)
+
+# 学习基地
+
+* [优达学院](https://cn.udacity.com/courses/all/)
+* coursera 
+    * 机器学习类
+        * https://www.coursera.org/specializations/jhu-data-science/1?utm_medium=listingPage
+* edx
+* [菜鸟教程](http://www.runoob.com/)  很多教程，快速入门
+* 小象学院（专门大数据方向，就是要钱）
+* [计蒜客（专业计算机教程，编程训练，acm）](http://www.jisuanke.com/cours)
+* [实验楼（用于实战，快速入门）](https://www.shiyanlou.com/courses/222)
+* [学堂在线](http://www.xuetangx.com/courses/search?query=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
+
+# 资源下载
+1.在开源社区里下载  
+* [sourceforge](https://sourceforge.net/)
+* [bitbucket](https://bitbucket.org/)
+* [github](https://github.com)
+* [开源中国](http://my.oschina.net/u/158589/blog/61037)
+* [my-eclipse](http://blog.my-eclipse.cn/)
+* [python库pypi](https://pypi.python.org/pypi/)
+
+# 优秀博客
+  * [逗逗阿修](http://blog.jaxiu.cn/)
+  * python 
+        
+    * http://www.cnblogs.com/hongten/p/hongten_python_second_month.html
+    * http://blog.csdn.net/julius_lee/article/details/14169165
+    * python类
+        * [网络，imaplib等等](http://www.cnblogs.com/xiaowuyi/archive/2013/08/07/3244760.html)
+        * [python](http://www.cnblogs.com/BeginMan/category/457665.html)
+  * 机器学习类 
+    * [可以找到10个不同的博主](https://wizardforcel.**strong text**gitbooks.io/dm-algo-top10/content/c4.5.html)
+    * http://blog.csdn.net/linkin1005/article/details/42869331
+    * http://blog.niubua.com/
+    * [白马负金羁](http://blog.csdn.net/baimafujinji)
+    * [龙心尘](http://blog.csdn.net/longxinchen_ml/)
+    * [ronny的技术成长之路](http://www.cnblogs.com/ronny/p/4063048.html)
+    * [蓝鲸](http://bluewhale.cc/)
+    * http://www.crifan.com/crifan_released_all/books/
+    * [ChrisZZ](http://www.cnblogs.com/zjutzz/)
+    
+ 
+
+# 优秀社区
+* [伯乐在线](http://blog.jobbole.com/?s=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
+* [36大数据](http://www.36dsj.com/archives/category/ganhuo)
+* [知识库](http://lib.csdn.net/)
+* [来源中国](http://my.oschina.net/u/158589/blog/61037)
+* [eclips](http://blog.my-eclipse.cn/)
+* [程序员联合开发网](http://www.pudn.com/sourcecode/math/DataMining/download218.html)
+* [machine  learning day](http://lcsl.mit.edu/courses/cbmmss/machine_learning/labs/Lab1.html)
+
+# 竞赛
+* 中兴捧月人工智能   
+   * [比赛网址](club.job.zte.net)
+   * [中兴校招](http://job.zte.com.cn/ZTE.Graduate.Web/Index/Index.aspx?type=1)
+  
+
+# 函数库
+* python（含有机器学习）（这里指所有用python 做的库）
+    * [python文库](http://python.usyiyi.cn/)
+    *  [sklearnAPI](http://scikit-learn.org/stable/)
+    * [numpy库](http://www.numpy.org/)
+    * [matplotlib库](http://matplotlib.org/) 注意：如果你想找一个库，比如numpy的话，在goole敲numpy.org试一试，说不定就有了
+    * [pandas库](http://pandas.pydata.org/pandas-docs/stable/api.html)
+    * 
+
+
+# 数据库
+* [mysql教程](http://www.runoob.com/mysql/mysql-tutorial.html)
+* [mysql官网](http://downloads.mysql.com/archives/community/)
+
