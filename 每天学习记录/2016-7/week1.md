@@ -60,4 +60,42 @@
 
 ```
 
+
+# 2016-7-19 
+## 小记
+1. 简单的线性分类器（就是所说的打分系统）
+    以一个餐厅推荐系统为例。
+    写了一大串，后移到自己的csdn上面了。[点击这](http://blog.csdn.net/mosbest/article/details/51953523)
+2. 混淆矩阵也可以发展到多维的情况
+ ![enter description here][1]
+
+[1]: ./images/%E6%97%A0%E6%A0%87%E9%A2%98.png "无标题.png"
+3. 一般情况下，数据量越大，误差就会越小，但是即使数据量趋于无穷大，误差也不会为0，因为偏差一定存在。同时，特征越多，模型越复杂，所需要的数据量也就越多。
 明天继续
+
+## 总结
+今天无话可说。为什么？我天，coursera真是卡啊！！！无话可说，弄了一天都没弄好。在加上wifi总是突然的连不上，必须重新开机才行。看来是要用ubuntu了，
+同时发现，登陆coursera的官网（www.coursera.org）比登陆他的子网慢的多，只要www.coursera.org好了，其他的一般就好了。所以以后尽可能跳过这个步骤。
+经过陈政的提醒，以后上coursera时把vpn关了。以后可以通过mooc学院登陆coursera [机器学习基础：案例研究](http://mooc.guokr.com/course/6199/Machine-Learning-Foundations--A-Case-Study-Approach/)
+[机器学习基础：案例研究](https://www.coursera.org/learn/ml-foundations/home/welcome)
+[机器学习：分类](http://mooc.guokr.com/course/6206/Machine-Learning--Classification/)
+千万不要直接登陆coursera的官网
+千万不要直接登陆coursera的官网
+千万不要直接登陆coursera的官网
+我天，现在还没有加载完。
+ 
+ 今天算是废了！！！
+ 
+  
+# 2016-7-20
+## 小记
+今天就一直在折腾ubuntu了，还没有折腾完。现在晚上11：30，前几天熬夜，今天想要早点睡，就记下还没看完的文档
+[apt官方文档](http://www.debian.org/doc/manuals/apt-howto/index.zh-cn.html#contents)
+[实验楼讲得简单方法](https://www.shiyanlou.com/courses/running)
+[ubuntu官网资料](http://wiki.ubuntu.org.cn/%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8%E6%8C%87%E5%BC%95)
+[buntu桌面入门指南 官网](http://wiki.ubuntu.org.cn/Ubuntu%E6%A1%8C%E9%9D%A2%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97)
+[ubuntu详细的安装与配置](http://wenku.it168.com/d_000030466.shtml)
+[菜鸟也能玩转Ubuntu：Ubuntu入门到精通](http://wenku.it168.com/wenji/693)(资料超全)
+
+
+### 感觉学一个东西，最关键的是你能不能找到好的文档。以后会留下这方面的积累。
