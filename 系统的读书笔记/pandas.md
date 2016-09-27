@@ -127,6 +127,7 @@ del frame2['eastern']
 
 # 基本功能
 ## 更换索引和列名 a.reindex([])和a.ix()
+hotelminprice_comp.columns='hotelid','starttime','minprice'
 ### a.reindex()
 1. 对于原先的数据obj,更换其索引值
 ```python
